@@ -25,11 +25,11 @@ Caso você queira usar uma IDE (nesse exemplo eu vou utilizar o DBeaver) você d
 
     3. Na janela "New Connection", selecione "SQLite" na lista de tipos de bancos de dados e clique em "Next".
 
-    4. Em "SQLite Settings", clique no botão "Browse" próximo ao campo "Database file". Navegue até o local onde você salvou o arquivo sql-murder-mystery.db        e selecione-o. Depois, clique em "OK" para fechar a janela de seleção de arquivo.
+    4. Em "SQLite Settings", clique no botão "Browse" próximo ao campo "Database file". Navegue até o local onde você salvou o arquivo sql-murder-mystery.db e selecione-o. Depois, clique em "OK" para fechar a janela de seleção de arquivo.
 
-    5. Na próxima janela, você pode deixar o campo "Connection name" como está ou digitar um nome mais descritivo para sua conexão. Depois, clique em                "Finish" para salvar a nova conexão.
+    5. Na próxima janela, você pode deixar o campo "Connection name" como está ou digitar um nome mais descritivo para sua conexão. Depois, clique em         "Finish" para salvar a nova conexão.
 
-    6. A conexão recém-criada aparecerá na lista de conexões do DBeaver. Para abrir o banco de dados, basta clicar duas vezes na conexão. O banco de dados          será aberto na janela principal do DBeaver e você poderá visualizar as tabelas e executar consultas SQL.
+    6. A conexão recém-criada aparecerá na lista de conexões do DBeaver. Para abrir o banco de dados, basta clicar duas vezes na conexão. O banco de dados será aberto na janela principal do DBeaver e você poderá visualizar as tabelas e executar consultas SQL.
 
 Com esses passos, você deve ser capaz de abrir o arquivo sql-murder-mystery.db no DBeaver e começar a explorar os dados do banco de dados SQLite.
 

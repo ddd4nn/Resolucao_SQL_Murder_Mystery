@@ -7,12 +7,11 @@ Técnicas de SQL usadas
 
 No script que acompanha este repositório, foram utilizadas diversas técnicas de SQL para resolver o mistério. Algumas delas são:
 
-    Seleção de colunas específicas: para exibir apenas as colunas necessárias para resolver o mistério
-    Junções (JOIN): para combinar as tabelas e obter informações relevantes
-    Cláusula WHERE: para filtrar as informações e encontrar pistas relevantes
-    Funções agregadas (COUNT, SUM): para obter informações estatísticas sobre os dados
-    Subconsultas (subqueries): para obter informações específicas de subconjuntos de dados
-    Criação de views: para simplificar as consultas e tornar a análise mais fácil
+   1. Seleção de colunas específicas: para exibir apenas as colunas necessárias para resolver o mistério
+   2. Junções (JOIN): para combinar as tabelas e obter informações relevantes
+   3. Cláusula WHERE: para filtrar as informações e encontrar pistas relevantes
+   4. Funções agregadas (COUNT, SUM): para obter informações estatísticas sobre os dados
+   5. Subconsultas (subqueries): para obter informações específicas de subconjuntos de dados
 
 Como jogar
 

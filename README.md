@@ -1,4 +1,5 @@
 Desafio SQL Murder Mystery
+--------------------------
 
 O desafio "SQL Murder Mystery" é um jogo interativo que desafia os participantes a usar suas habilidades em SQL para solucionar um mistério de assassinato. O jogo simula uma cena de crime e apresenta um conjunto de dados relacionais que os jogadores devem explorar e manipular para encontrar pistas, identificar suspeitos e, finalmente, resolver o mistério.
 

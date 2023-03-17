@@ -15,7 +15,23 @@ No script que acompanha este repositório, foram utilizadas diversas técnicas d
 
 Como jogar
 
-Para jogar o desafio "SQL Murder Mystery", basta acessar o site oficial do jogo em https://mystery.knightlab.com/. Lá, você encontrará todas as informações necessárias para começar a jogar, incluindo o conjunto de dados, as instruções e as perguntas que precisam ser respondidas para solucionar o mistério.
+Para jogar o desafio "SQL Murder Mystery", basta acessar o site oficial do jogo em https://mystery.knightlab.com/. Lá, você encontrará todas as informações necessárias para começar a jogar, incluindo o conjunto de dados, as instruções e as perguntas que precisam ser respondidas para solucionar o mistério. 
+
+Caso você queira usar uma IDE (nesse exemplo eu vou utilizar o DBeaver) você deve:
+
+    1. Fazer o download e instalar o DBeaver em seu computador. O DBeaver é um software gratuito e pode ser baixado em https://dbeaver.io/download/.
+
+    2. Abra o DBeaver e clique no botão "New Database Connection" na janela principal.
+
+    3. Na janela "New Connection", selecione "SQLite" na lista de tipos de bancos de dados e clique em "Next".
+
+    4. Em "SQLite Settings", clique no botão "Browse" próximo ao campo "Database file". Navegue até o local onde você salvou o arquivo sql-murder-mystery.db        e selecione-o. Depois, clique em "OK" para fechar a janela de seleção de arquivo.
+
+    5. Na próxima janela, você pode deixar o campo "Connection name" como está ou digitar um nome mais descritivo para sua conexão. Depois, clique em                "Finish" para salvar a nova conexão.
+
+    6. A conexão recém-criada aparecerá na lista de conexões do DBeaver. Para abrir o banco de dados, basta clicar duas vezes na conexão. O banco de dados          será aberto na janela principal do DBeaver e você poderá visualizar as tabelas e executar consultas SQL.
+
+Com esses passos, você deve ser capaz de abrir o arquivo sql-murder-mystery.db no DBeaver e começar a explorar os dados do banco de dados SQLite.
 
 Para resolver o mistério, você precisará criar suas próprias consultas SQL para extrair informações do conjunto de dados. O script fornecido neste repositório pode ser usado como um guia ou como uma referência para criar suas próprias consultas.
 Créditos
